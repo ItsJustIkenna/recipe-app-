@@ -59,4 +59,6 @@ const getSearch = e => {
   );
 };
 
+console.log('Hello');
+
 export default App;
